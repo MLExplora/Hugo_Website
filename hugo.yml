@@ -1,0 +1,5 @@
+baseURL: "https://MLExplora.github.io/Hugo_Website/"
+languageCode: en-us
+title: Dumb site
+theme : PaperMod
+
